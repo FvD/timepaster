@@ -1,0 +1,12 @@
+package:
+  name: timepaster
+  version: 0.5.0
+build: 
+  number: 1
+  script: 
+    - echo "TimePaster build with conda"
+requirements:
+  run:
+    - python
+about:
+  summary: New version of TimePaster
